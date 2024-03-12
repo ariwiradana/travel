@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Monkey Forest",
+    "category": "Traveling",
+    "image": "https://source.unsplash.com/KC9UR6JYVQA/1920x1080",
+    "path": "/"
+  },
+  {
+    "id": 2,
+    "title": "Tirta Empul",
+    "category": "Traveling",
+    "image": "https://source.unsplash.com/KC9UR6JYVQA/1920x1080",
+    "path": "/"
+  },
+  {
+    "id": 1,
+    "title": "Gitgit Waterfall",
+    "category": "Traveling",
+    "image": "https://source.unsplash.com/KC9UR6JYVQA/1920x1080",
+    "path": "/"
+  },
+  {
+    "id": 2,
+    "title": "Bali Zoo",
+    "category": "Traveling",
+    "image": "https://source.unsplash.com/KC9UR6JYVQA/1920x1080",
+    "path": "/"
+  },
+  {
+    "id": 1,
+    "title": "Nusa Penida",
+    "category": "Traveling",
+    "image": "https://source.unsplash.com/KC9UR6JYVQA/1920x1080",
+    "path": "/"
+  },
+  {
+    "id": 2,
+    "title": "Taman Ujung",
+    "category": "Traveling",
+    "image": "https://source.unsplash.com/KC9UR6JYVQA/1920x1080",
+    "path": "/"
+  }
+]
